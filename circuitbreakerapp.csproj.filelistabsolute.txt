@@ -1,0 +1,16 @@
+C:\Users\obantr\source\repos\CircuitBreakerApp\CircuitBreakerApp\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\obantr\source\repos\CircuitBreakerApp\CircuitBreakerApp\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\obantr\source\repos\CircuitBreakerApp\CircuitBreakerApp\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\obantr\source\repos\CircuitBreakerApp\CircuitBreakerApp\bin\Debug\netcoreapp2.1\CircuitBreakerApp.deps.json
+C:\Users\obantr\source\repos\CircuitBreakerApp\CircuitBreakerApp\bin\Debug\netcoreapp2.1\CircuitBreakerApp.runtimeconfig.json
+C:\Users\obantr\source\repos\CircuitBreakerApp\CircuitBreakerApp\bin\Debug\netcoreapp2.1\CircuitBreakerApp.runtimeconfig.dev.json
+C:\Users\obantr\source\repos\CircuitBreakerApp\CircuitBreakerApp\bin\Debug\netcoreapp2.1\CircuitBreakerApp.dll
+C:\Users\obantr\source\repos\CircuitBreakerApp\CircuitBreakerApp\obj\Debug\netcoreapp2.1\CircuitBreakerApp.csprojAssemblyReference.cache
+C:\Users\obantr\source\repos\CircuitBreakerApp\CircuitBreakerApp\obj\Debug\netcoreapp2.1\CircuitBreakerApp.RazorAssemblyInfo.cache
+C:\Users\obantr\source\repos\CircuitBreakerApp\CircuitBreakerApp\obj\Debug\netcoreapp2.1\CircuitBreakerApp.RazorAssemblyInfo.cs
+C:\Users\obantr\source\repos\CircuitBreakerApp\CircuitBreakerApp\obj\Debug\netcoreapp2.1\CircuitBreakerApp.AssemblyInfoInputs.cache
+C:\Users\obantr\source\repos\CircuitBreakerApp\CircuitBreakerApp\obj\Debug\netcoreapp2.1\CircuitBreakerApp.AssemblyInfo.cs
+C:\Users\obantr\source\repos\CircuitBreakerApp\CircuitBreakerApp\obj\Debug\netcoreapp2.1\CircuitBreakerApp.RazorTargetAssemblyInfo.cache
+C:\Users\obantr\source\repos\CircuitBreakerApp\CircuitBreakerApp\bin\Debug\netcoreapp2.1\CircuitBreakerApp.pdb
+C:\Users\obantr\source\repos\CircuitBreakerApp\CircuitBreakerApp\obj\Debug\netcoreapp2.1\CircuitBreakerApp.dll
+C:\Users\obantr\source\repos\CircuitBreakerApp\CircuitBreakerApp\obj\Debug\netcoreapp2.1\CircuitBreakerApp.pdb
